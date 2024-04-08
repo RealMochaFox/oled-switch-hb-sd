@@ -1,0 +1,27 @@
+# Mac Gunk
+.DS_Store
+.Trashes
+.Spotlight-V100
+.fseventsd
+._*
+
+# Nintendo folders
+emuMMC
+Nintendo
+
+# Extra fun stuff
+atmosphere/contents/420000000000000B
+atmosphere/exefs_patches/es_patches
+atmosphere/exefs_patches/nfim_ctest
+atmosphere/kip_patches/fs_patches
+atmosphere/kip_patches/loader_patches
+bootloader/patches.ini
+config/sys-patch
+
+emuiibo/amiibo/*
+!emuiibo/amiibo/._
+!emuiibo/amiibo/emuiibo
+!emuiibo/amiibo/emuiibo_1
+
+retroarch
+1Retro Games
