@@ -9,7 +9,17 @@
 emuMMC
 Nintendo
 
+# Homebrew stuff
+atmosphere/erpt_reports
+config/aio-switch-updater/cheats_version.dat
+config/aio-switch-updater/cheats.zip
+config/amiigo/API.json
+switch/chiaki.conf
+switch/breeze/cheats/*
+
 # Extra fun stuff
+atmosphere/contents/*/cheats
+
 atmosphere/contents/420000000000000B
 atmosphere/exefs_patches/es_patches
 atmosphere/exefs_patches/nfim_ctest
@@ -17,6 +27,7 @@ atmosphere/kip_patches/fs_patches
 atmosphere/kip_patches/loader_patches
 bootloader/patches.ini
 config/sys-patch
+switch/tinfoil
 
 emuiibo/amiibo/*
 !emuiibo/amiibo/._
