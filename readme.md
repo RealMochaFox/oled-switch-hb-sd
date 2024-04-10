@@ -39,5 +39,4 @@ Built on Horizon OS 18.0.0
 ## NSPs
 | Name | Version |
 | ---- | ------- |
-| nx-hbloader | 2.4.4 |
 | retroarch | N/A |
