@@ -1,5 +1,5 @@
 # SD Card Contents 
-Built on Horizon OS 18.0.0
+This setup supports Stock Sysnand, Atmosphere Emunand, and Android. It includes a variety of homebrew applications and tools. The setup is based on the V6S modchip and is built on Horizon OS 18.0.0.
 
 ## Versions
 - Hekate: 6.1.1
@@ -40,3 +40,9 @@ Built on Horizon OS 18.0.0
 | Name | Version |
 | ---- | ------- |
 | retroarch | N/A |
+
+# Setup
+1. Copy `atmosphere`, `bootloader`, `config`, `payload.bin` to the root of your SD card.
+2. Boot into Hekate and create a SD partition Emunand and Android partition if desired.
+    - Optional: Restore emunand partition from backup.
+3. Copy all files and folders to root of SD card, replacing any files.
