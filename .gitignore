@@ -9,17 +9,41 @@
 emuMMC
 Nintendo
 
+# Android stuff
+Alarms
+Android
+Audiobooks
+DCIM
+Documents
+Download
+LOST.DIR
+Movies
+Music
+Notifications
+Pictures
+Podcasts
+Ringtones
+switchroot/joycon_mac.bin
+switchroot/joycon_mac.ini
+switchroot/switch.cal
+
+
 # Homebrew stuff
 atmosphere/erpt_reports
+atmosphere/crash_reports
+atmosphere/fatal_reports
 config/aio-switch-updater/cheats_version.dat
 config/aio-switch-updater/cheats.zip
 config/amiigo/API.json
 switch/chiaki.conf
 switch/breeze/cheats/*
+switch/nxdt_rw_poc.log
+JKSV
 
 # Extra fun stuff
 atmosphere/contents/*/cheats
 
+bootloader/payloads/Lockpick_RCM.bin
 atmosphere/contents/420000000000000B
 atmosphere/exefs_patches/es_patches
 atmosphere/exefs_patches/nfim_ctest
@@ -28,8 +52,11 @@ atmosphere/kip_patches/loader_patches
 bootloader/patches.ini
 config/sys-patch
 switch/tinfoil
+switch/prod.keys
+switch/title.keys
 
 emuiibo/amiibo/*
+emuiibo/miis
 !emuiibo/amiibo/._
 !emuiibo/amiibo/emuiibo
 !emuiibo/amiibo/emuiibo_1
