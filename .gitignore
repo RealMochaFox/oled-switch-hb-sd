@@ -54,6 +54,10 @@ config/sys-patch
 switch/tinfoil
 switch/prod.keys
 switch/title.keys
+switch/Simpsons
+nsps/*
+!nsps/Retroarch_0402351D1E46C000.nsp
+
 
 emuiibo/amiibo/*
 emuiibo/miis
@@ -63,3 +67,5 @@ emuiibo/miis
 
 retroarch
 1Retro Games
+sm64.log
+tinfoil.install.log
