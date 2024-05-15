@@ -46,3 +46,4 @@ This setup supports Stock Sysnand, Atmosphere Emunand, and Android. It includes 
 2. Boot into Hekate and create a SD partition Emunand and Android partition if desired.
     - Optional: Restore emunand partition from backup.
 3. Copy all files and folders to root of SD card, replacing any files.
+4. If sigpatches are needed, use `sys-patch`.
