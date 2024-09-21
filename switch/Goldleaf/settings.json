@@ -1,0 +1,17 @@
+{
+    "export": {
+        "decryptBufferMaxSize": 16777216
+    },
+    "general": {
+        "ignoreHiddenFiles": false,
+        "use12hTime": true
+    },
+    "installs": {
+        "copyBufferMaxSize": 4194304,
+        "ignoreRequiredFwVersion": true,
+        "showDeletionPromptAfterInstall": false
+    },
+    "ui": {
+        "menuItemSize": 80
+    }
+}

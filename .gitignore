@@ -27,7 +27,6 @@ switchroot/joycon_mac.bin
 switchroot/joycon_mac.ini
 switchroot/switch.cal
 
-
 # Homebrew stuff
 atmosphere/erpt_reports
 atmosphere/crash_reports
@@ -39,10 +38,13 @@ switch/chiaki.conf
 switch/breeze/cheats/*
 switch/nxdt_rw_poc.log
 JKSV
+backup
 
-# Extra fun stuff
+# Game mods & cheats
+atmosphere/contents/0100152000022000
 atmosphere/contents/*/cheats
 
+# Extra fun stuff
 bootloader/payloads/Lockpick_RCM.bin
 atmosphere/contents/420000000000000B
 atmosphere/exefs_patches/es_patches
@@ -55,9 +57,11 @@ switch/tinfoil
 switch/prod.keys
 switch/title.keys
 switch/Simpsons
+switch/Goldleaf/title
+switch/Goldleaf/userdata
+switch/AmiiboGenerator.nro
 nsps/*
 !nsps/Retroarch_0402351D1E46C000.nsp
-
 
 emuiibo/amiibo/*
 emuiibo/miis
