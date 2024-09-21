@@ -1,25 +1,25 @@
 # SD Card Contents 
-This setup supports Stock Sysnand, Atmosphere Emunand, and Android. It includes a variety of homebrew applications and tools. The setup is based on the V6S modchip and is built on Horizon OS 18.0.0.
+This setup supports Stock Sysnand, Atmosphere Emunand, and Android. It includes a variety of homebrew applications and tools. The setup is based on the V6S modchip and is built on Horizon OS 18.1.0.
 
 ## Versions
-- Hekate: 6.1.1
-- Nyx: 1.6.1
-- Atmosphere: 1.7.0
+- Hekate: 6.2.1
+- Nyx: 1.6.3
+- Atmosphere: 1.7.1
 - V6S Firmware: 1.3
 
 ## Installed
 | Name | Version | Description |
 | ---- | ------- | ----------- |
-| Horizon OS (Emunand) | 18.0.0 | Switch OS |
-| Hekate | 6.1.1 | Bootloader |
-| Nyx | 1.6.1 | Bootloader UI |
-| Atmosphere | 1.7.0 | CFW |
+| Horizon OS (Emunand) | 18.1.0 | Switch OS |
+| Hekate | 6.2.1 | Bootloader |
+| Nyx | 1.6.3 | Bootloader UI |
+| Atmosphere | 1.7.1 | CFW |
 | Emunand hosts block | N/A | Blocks Nintendo servers on Emunand |
 | V6S Firmware | 1.3 | Firmware for V6S modchip |
 | DBI | 658 | Title Installer |
-| JKSV | 02.23.2023 | Save Manager |
+| JKSV | 08.06.2024 | Save Manager |
 | FTPD | v3.1.0 | FTP Server |
-| Breeze | beta 89 | Cheat code manager |
+| Breeze | beta 93 | Cheat code manager |
 | AIO Switch Updater | 2.23.2 | Homebrew Updater |
 | Emuiibo | 1.1.1 | Amiibo Emulator |
 | Emuiibo - Overlay | 1.1.1 | Amiibo Tesla Overlay |

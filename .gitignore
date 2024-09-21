@@ -62,6 +62,7 @@ switch/Goldleaf/userdata
 switch/AmiiboGenerator.nro
 nsps/*
 !nsps/Retroarch_0402351D1E46C000.nsp
+firmware/
 
 emuiibo/amiibo/*
 emuiibo/miis
