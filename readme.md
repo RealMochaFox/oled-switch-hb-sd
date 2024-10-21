@@ -2,18 +2,18 @@
 This setup supports Stock Sysnand, Atmosphere Emunand, and Android. It includes a variety of homebrew applications and tools. The setup is based on the V6S modchip and is built on Horizon OS 18.1.0.
 
 ## Versions
-- Hekate: 6.2.1
-- Nyx: 1.6.3
-- Atmosphere: 1.7.1
+- Hekate: 6.2.2
+- Nyx: 1.6.4
+- Atmosphere: 1.8.0-prerelease
 - V6S Firmware: 1.3
 
 ## Installed
 | Name | Version | Description |
 | ---- | ------- | ----------- |
 | Horizon OS (Emunand) | 18.1.0 | Switch OS |
-| Hekate | 6.2.1 | Bootloader |
-| Nyx | 1.6.3 | Bootloader UI |
-| Atmosphere | 1.7.1 | CFW |
+| Hekate | 6.2.2 | Bootloader |
+| Nyx | 1.6.4 | Bootloader UI |
+| Atmosphere | 1.8.0-prerelease | CFW |
 | Emunand hosts block | N/A | Blocks Nintendo servers on Emunand |
 | V6S Firmware | 1.3 | Firmware for V6S modchip |
 | DBI | 658 | Title Installer |
