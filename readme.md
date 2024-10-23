@@ -19,18 +19,18 @@ This setup supports Stock Sysnand, Atmosphere Emunand, and Android. It includes 
 | DBI | 658 | Title Installer |
 | JKSV | 08.06.2024 | Save Manager |
 | FTPD | v3.1.0 | FTP Server |
-| Breeze | beta 93 | Cheat code manager |
+| Breeze | beta 95e | Cheat code manager |
 | AIO Switch Updater | 2.23.2 | Homebrew Updater |
 | Emuiibo | 1.1.1 | Amiibo Emulator |
 | Emuiibo - Overlay | 1.1.1 | Amiibo Tesla Overlay |
 | Amiigo | 2.3.2 | Amiibo Manager |
 | SimpleModManager | v2.1.2 | LayeredFS Mod Manager |
-| SysClk | 2.0.0-rc | Overclocking |
-| SysClk - Overlay | 2.0.0-rc | Overclocking Tesla Overlay |
+| SysClk | 2.0.1 | Overclocking |
+| SysClk - Overlay | 2.0.1 | Overclocking Tesla Overlay |
 | NXThemesInstaller | 2.7.1 | Theme Installer |
-| sys-patch | 1.5.0 | Sigpatches |
-| sys-patch - Overlay | 1.5.0 | Sigpatches Tesla Overlay |
-| MissionControl | 0.11.0 | 3rd Party Controller Support |
+| sys-patch | firm 19.0.0 | Sigpatches |
+| sys-patch - Overlay | firm 19.0.0 | Sigpatches Tesla Overlay |
+| MissionControl | 0.12.0 | 3rd Party Controller Support |
 | nx-ovlloader | 16.0.0 | Overlay Loader |
 | ovlmenu | 1.2.3 | Overlay Menu |
 | chiaki | 2.2.0 | PS4 & PS5 Remote Play |
